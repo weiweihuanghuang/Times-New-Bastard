@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta content="Times New Bastard" name="description">
+    <title>Times New Bastard</title>
+    <style>
+        @font-face {
+          font-family: 'Times New Bastard';
+          src: url('Times-New-Bastard/fonts/Web/TTF/TimesNewBastard-RegularWeb.woff') format('woff'),
+            url('Times-New-Bastard/fonts/Web/TTF/TimesNewBastard-RegularWeb.woff2') format('woff');
+          font-weight:400;
+          font-style:regular;
+        }
+    *,
+    html,
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: 'Times New Bastard';
+        font-feature-settings: "kern" on, "liga" on;
+        text-rendering: optimizeLegibility;
+    }
+    html,
+    body {
+        height: 100%;
+        width: 100%
+    }
+    textarea {
+        font-family: 'Times New Bastard';
+        font-size: 100px;
+        border: 0;
+        padding: 0;
+        margin: 0;
+        outline: none;
+        padding: 15px 10px 10px;
+        height:400px;
+        resize: none;
+        line-height: 120%;
+    }
+    @media (min-width: 1px) {
+        textarea {
+            font-size: 70px;
+        }
+    }
+    @media (min-width: 800px) {
+        textarea {
+            font-size: 80px;
+        }
+    }
+    @media (min-width: 1400px) {
+        textarea {
+            font-size: 100px;
+        }
+    }
+    #element::-webkit-scrollbar {
+        display: none;
+    }
+    ::-webkit-scrollbar {
+        display: none;
+    }
+    ::selection {
+        background: black;
+        color: white
+    }
+    ::-moz-selection {
+        background: black;
+        color: white
+    }
+    ::-webkit-input-placeholder {
+        color: black
+    }
+    :-moz-placeholder {
+        color: black
+    }
+    ::-moz-placeholder {
+        color: black
+    }
+    :-ms-input-placeholder {
+        color: black
+    }
+    .wrapper {
+        width: 100%;
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-flex-flow: column nowrap;
+        -moz-flex-flow: column nowrap;
+        -ms-flex-flow: column nowrap;
+        flex-flow: column nowrap
+    }
+    #corner {
+    	position:absolute;
+    	bottom:5px;
+    	right:5px;
+    	color:#CCC;
+    	font-size:12px;
+    	letter-spacing: 1px
+    }
+    a,a:visited,a:hover, a:active { text-decoration : none; color : #999; font-size:24px; letter-spacing: 1px}
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <textarea autofocus="" placeholder=
+        "Times New Bastard: It's Times New Roman but every seventh letter is jarringly sans serif."
+        spellcheck="false"></textarea>
+    </div>
+    <div id="corner">
+    <a href="">Download Times New Bastard</a>
+    <a href="https://twitter.com/w__h_">@w__h_</a>&nbsp;
+    <a href="https://bouquetoftwelve.tumblr.com/post/186272155342/ommanyte-ommanyte-im-going-to-make-a-new">ommanyte</a>
+    </div>
+</body>
+</html>
