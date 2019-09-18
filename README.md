@@ -7,10 +7,16 @@ It's Times New Roman but every seventh letter is jarringly sans serif. Original 
 
 Times New Bastard is a modified version of Nimbus Roman No. 9 L and Nimbus Sans, original source [here](https://git.ghostscript.com/?p=urw-core35-fonts.git;a=summary).
 
-## Using it in Microsoft Office
+## Using it on the Web
+Turn on ligatures and `optimiseLegibility`:
 
-Enable Kerning in the font menu:
-![](office.png)
+```
+font-feature-settings: "kern" on, "liga" on;
+text-rendering: optimizeLegibility;
+```
+
+## Using it in Microsoft Office
+[Turn on Ligatures](https://support.office.com/en-us/article/turn-on-ligatures-or-joined-characters-a1d144fc-759f-4726-a22a-c5686f128a69).
 
 ## License
 
