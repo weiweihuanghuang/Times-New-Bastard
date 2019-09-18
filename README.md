@@ -1,7 +1,9 @@
-# Times New Bastard
+## [Download Times New Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard/archive/v.10.zip)
+
 ![](tnb.png)
 
-It's Times New Roman but every seventh letter is jarringly sans serif. Original idea by [ommanyte](https://bouquetoftwelve.tumblr.com/post/186272155342/ommanyte-ommanyte-im-going-to-make-a-new) on Tumblr:
+It's Times New Roman but every seventh letter is jarringly sans serif. 
+Original idea by [ommanyte](https://bouquetoftwelve.tumblr.com/post/186272155342/ommanyte-ommanyte-im-going-to-make-a-new) on Tumblr:
 
 ![](v1qnefla8pa31.jpg)
 
