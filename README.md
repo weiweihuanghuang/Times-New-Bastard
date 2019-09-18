@@ -1,4 +1,4 @@
-## [Download Times New Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard/archive/v.10.zip)
+## [Download Times New Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard/releases/download/v1.0/TimesNewBastardv1.0.zip)
 
 ![](tnb.jpg)
 
